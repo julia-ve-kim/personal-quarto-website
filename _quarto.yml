@@ -1,0 +1,48 @@
+# code referenced from https://www.marvinschmitt.com/blog/website-tutorial-quarto/ 
+
+# website settings
+website:
+  title: "Julia V.E. Kim"                               
+  image: img/my_image.jpg
+  favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/logo.png
+    
+    # my sub-pages
+    left:
+      - text: "Research Projects"
+        href: projects/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # my social media handles
+    right:
+      - icon: github 
+        href: https://github.com/julia-ve-kim 
+      - icon: instagram 
+        href: https://www.instagram.com/julia.ve.turner/ 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/julia-kim-b6224b205/ 
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.juliaym.kim@mail.utoronto.ca"  
+
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - cosmo
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+
+editor: visual 
