@@ -34,6 +34,17 @@ project:
   type: website
   output-dir: docs
 
+search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Julia Kim. All rights reserved. </span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Design and code supported by the tutorial and template by Martin Schmitt (2023).</a></span>
+    right: |
+      <span class="faux-block"><a Images taken personally or courtesy of Encyclopedia Britannica and NEDS. </a></span>
+      
 format:
   html:
     fontsize: 1.1em
