@@ -34,5 +34,5 @@ that of red giants in other stellar systems, and in the field.
 
 Paper is in pre-print, publication link is to follow shortly. 
 
-[^1]: Image source: Encyclopædia Britannica via [link](https://www.britannica.com/place/Omega-Centauri).
-[^2]: Image source: National Environmental Satellite, Data, and Information Service via [link](https://www.nesdis.noaa.gov/news/phytoplankton-bloom-the-barents-sea).
+[^1]: Image courtesy of Encyclopædia Britannica via [link](https://www.britannica.com/place/Omega-Centauri).
+[^2]: Image courtesy of National Environmental Satellite, Data, and Information Service via [link](https://www.nesdis.noaa.gov/news/phytoplankton-bloom-the-barents-sea).
