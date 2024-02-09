@@ -8,9 +8,10 @@ title: Projects
 ## Pulsating Red Giants in a Globular Cluster: $\omega$ Centauri 
 
 <img src="project1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://app.aavso.org/media/jaavso/3835_Skfwez7.pdf', 'blank');"/>
+*Image courtesy of Encyclopædia Britannica [here](https://www.britannica.com/place/Omega-Centauri).*
 
 <a href="https://app.aavso.org/media/jaavso/3835_Skfwez7.pdf" target="_blank">AASVO Publication</a>
-[^1]
+
 
 **Abstract**: We carried out light-curve and time-series analysis of a sample of 16 pulsating red giants (PRGs) in the globular
 cluster $\omega$ Cen, using observations from the ASAS-SN database, and the AAVSO software package VStar. Of the 16 stars, 1 was
@@ -26,13 +27,10 @@ that of red giants in other stellar systems, and in the field.
 ## Barium Depletion in Canadian Coastal Waters Points to Planktonic Phytoplankton Bloom Intensification in the Arctic
 
 <img src="project2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://docs.google.com/presentation/d/1GsqcQoZKR3WDcb_7Mi6wgjpIBD3lrPH1hZNZl9rJglE/edit#slide=id.p', 'blank');"/>
+*Image courtesy of National Environmental Satellite, Data, and Information Service [here](https://www.nesdis.noaa.gov/news/phytoplankton-bloom-the-barents-sea).*
 
 <a href="https://docs.google.com/presentation/d/1GsqcQoZKR3WDcb_7Mi6wgjpIBD3lrPH1hZNZl9rJglE/edit#slide=id.p" target="_blank">Project Poster</a> 
-[^2]
 
 **Abstract.** Bottom-dwelling organisms in coastal regions are particularly vulnerable to climate change impacts, being both impacted by open ocean and near-surface terrestrial dynamics. Arctic coastal ecosystems, for instance, have experienced sea ice loss, increasing glacial runoff, permafrost melt and erosion, producing ecological cascades that ripple through the marine ecosystem. Here, we present research supported by a growing body of literature suggestive of recent barium (Ba) depletion trends in coastal waters, resulting from larger and longer-lasting phytoplankton blooms. We produce a barium-calcium ratio(Ba/Ca) record from specimens of calcifying coralline red algae (Clathromorphum compactum) collected in the Canadian Arctic Archipelago that show a gradual decrease of barium since the mid-20th century. We suggest that this trend results from the increasing uptake of barium by pelagic (surface-dwelling) phytoplankton, as a consequence of reduced sea ice and increased terrestrial nutrient input from permafrost melt. Contextualized within the wider literature, we propose this algal record as a multi-centennial phytoplankton bloom proxy time series for this region. As we consider future Arctic ecological scenarios, the intensification of phytoplankton blooms may have cascading impacts on coastal marine organisms competing for surface nutrients and light access (e.g., coastal darkening), upper trophic organisms such as seabirds, and Indigenous livelihoods.
 
 Paper is in pre-print, publication link is to follow shortly. 
-
-[^1]: Image courtesy of Encyclopædia Britannica via [link](https://www.britannica.com/place/Omega-Centauri).
-[^2]: Image courtesy of National Environmental Satellite, Data, and Information Service via [link](https://www.nesdis.noaa.gov/news/phytoplankton-bloom-the-barents-sea).

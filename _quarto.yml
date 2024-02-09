@@ -1,9 +1,10 @@
-# code referenced from https://www.marvinschmitt.com/blog/website-tutorial-quarto/ 
+# code referenced from https://www.marvinschmitt.com/blog/website-tutorial-quarto/  
 
 # website settings
 website:
-  title: "Julia V.E. Kim"                               
+  title: "Julia V.E. Kim"                             
   image: img/my_image.jpg
+  
   favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
@@ -11,14 +12,14 @@ website:
     pinned: true
     logo: /img/logo.png
     
-    # my sub-pages
+    # sub-pages
     left:
       - text: "Research Projects"
         href: projects/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
-    # my social media handles
+    #  social media handles
     right:
       - icon: github 
         href: https://github.com/julia-ve-kim 
@@ -29,31 +30,40 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:mail.juliaym.kim@mail.utoronto.ca"  
+  
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Julia Kim. All rights reserved.</span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Design and code supported by Martin Schmitt (2023).</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/julia-ve-kim/personal-quarto-website/blob/main/README.md">Images courtesy of Encyclopedia Britannica and NEDS.</a></span>
 
 project:
   type: website
   output-dir: docs
 
-search: 
-    location: navbar
-    type: textbox
-  page-footer: 
-    left: |
-      <span class="faux-block">&#169; 2024 Julia Kim. All rights reserved. </span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Design and code supported by the tutorial and template by Martin Schmitt (2023).</a></span>
-    right: |
-      <span class="faux-block"><a Images taken personally or courtesy of Encyclopedia Britannica and NEDS. </a></span>
-      
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
 format:
   html:
     fontsize: 1.1em
     theme: 
-      - cosmo
+      - cosmo 
       - html/styles.scss
     toc: false
     code-link: true
     anchor-sections: true
     fig-cap-location: margin
-
-editor: visual 
+    reference-location: margin
+    footnotes-hover: true

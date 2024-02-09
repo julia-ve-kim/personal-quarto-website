@@ -10,4 +10,3 @@ Encyclopædia Britannica. (n.d.). Omega Centauri [Image]. In Encyclopædia Brita
 Schmitt, M. (2023, March 28). Create your website with quarto: Complete tutorial and template. Marvin Schmitt. https://www.marvinschmitt.com/blog/website-tutorial-quarto/ 
 
 NEDS.  (2018). Phytoplankton Bloom in the Barents Sea [Image]. In NEDS. Retrieved February 9, 2024, from https://www.nesdis.noaa.gov/news/phytoplankton-bloom-the-barents-sea#:~:text=This%20true%2Dcolor%20image%2C%20captured,rich%20waters%20of%20the%20Arctic. 
-
